@@ -1,0 +1,58 @@
+2026-09-28 14:10:15,204 | INFO | Starting Smart Campus MCP Server
+2026-09-28 14:10:15,240 | INFO | Resource requested: campus://rooms
+2026-09-28 14:10:15,246 | INFO | Tool called: health_check
+2026-09-28 14:10:15,313 | INFO | Tool called: search_room | room_id=A203
+2026-09-28 14:10:15,316 | INFO | Tool called: get_device_status | room_id=A203
+2026-09-28 14:10:15,319 | INFO | Tool called: find_available_room | capacity=40 | building=A | require_projector=True
+2026-09-28 14:11:14,027 | INFO | Starting Smart Campus MCP Server
+2026-09-28 14:11:14,051 | INFO | Tool called: health_check
+2026-09-28 14:11:14,120 | INFO | Tool called: search_room | room_id=A203
+2026-09-28 14:11:14,127 | INFO | Tool called: search_room | room_id=XYZ999
+2026-09-28 14:11:14,130 | INFO | Tool called: get_device_status | room_id=A203
+2026-09-28 14:11:14,133 | INFO | Tool called: find_available_room | capacity=40 | building=A | require_projector=True
+2026-09-28 14:11:14,138 | INFO | Tool called: find_available_room | capacity=500 | building=A | require_projector=True
+2026-09-28 14:11:47,575 | INFO | Starting Smart Campus MCP Server
+2026-09-28 14:11:47,607 | INFO | Resource requested: campus://rooms
+2026-09-28 14:11:47,612 | INFO | Tool called: health_check
+2026-09-28 14:11:47,680 | INFO | Tool called: search_room | room_id=A203
+2026-09-28 14:11:47,684 | INFO | Tool called: get_device_status | room_id=A203
+2026-09-28 14:11:47,687 | INFO | Tool called: find_available_room | capacity=40 | building=A | require_projector=True
+2026-09-28 14:11:55,055 | INFO | Starting Smart Campus MCP Server
+2026-09-28 14:11:55,076 | INFO | Tool called: health_check
+2026-09-28 14:11:55,141 | INFO | Tool called: search_room | room_id=A203
+2026-09-28 14:11:55,144 | INFO | Tool called: search_room | room_id=XYZ999
+2026-09-28 14:11:55,146 | INFO | Tool called: get_device_status | room_id=A203
+2026-09-28 14:11:55,149 | INFO | Tool called: find_available_room | capacity=40 | building=A | require_projector=True
+2026-09-28 14:11:55,152 | INFO | Tool called: find_available_room | capacity=500 | building=A | require_projector=True
+2026-09-28 14:13:49,854 | INFO | Starting Smart Campus MCP Server
+2026-09-28 14:13:54,186 | INFO | Tool called: health_check
+2026-09-28 14:15:07,554 | INFO | Starting Smart Campus MCP Server
+2026-09-28 14:15:07,577 | INFO | Tool called: health_check
+2026-09-28 14:15:07,643 | INFO | Tool called: search_room | room_id=A203
+2026-09-28 14:15:07,646 | INFO | Tool called: search_room | room_id=XYZ999
+2026-09-28 14:15:07,648 | INFO | Tool called: get_device_status | room_id=A203
+2026-09-28 14:15:07,651 | INFO | Tool called: find_available_room | capacity=40 | building=A | require_projector=True
+2026-09-28 14:15:07,654 | INFO | Tool called: find_available_room | capacity=500 | building=A | require_projector=True
+2026-09-28 14:17:11,260 | INFO | Starting Smart Campus MCP Server
+2026-09-28 14:17:11,291 | INFO | Resource requested: campus://rooms
+2026-09-28 14:17:11,295 | INFO | Tool called: health_check
+2026-09-28 14:17:11,363 | INFO | Tool called: search_room | room_id=A203
+2026-09-28 14:17:11,366 | INFO | Tool called: get_device_status | room_id=A203
+2026-09-28 14:17:11,370 | INFO | Tool called: find_available_room | capacity=40 | building=A | require_projector=True
+2026-09-28 14:17:22,279 | INFO | Starting Smart Campus MCP Server
+2026-09-28 14:17:26,441 | INFO | Tool called: health_check
+2026-09-28 14:17:32,400 | INFO | Tool called: search_room | room_id=12
+2026-09-28 14:17:45,304 | INFO | Starting Smart Campus MCP Server
+2026-09-28 14:17:45,325 | INFO | Tool called: health_check
+2026-09-28 14:17:45,394 | INFO | Tool called: search_room | room_id=A203
+2026-09-28 14:17:45,398 | INFO | Tool called: search_room | room_id=XYZ999
+2026-09-28 14:17:45,401 | INFO | Tool called: get_device_status | room_id=A203
+2026-09-28 14:17:45,405 | INFO | Tool called: find_available_room | capacity=40 | building=A | require_projector=True
+2026-09-28 14:17:45,408 | INFO | Tool called: find_available_room | capacity=500 | building=A | require_projector=True
+2026-09-28 14:17:53,975 | INFO | Starting Smart Campus MCP Server
+2026-09-28 14:17:53,996 | INFO | Tool called: health_check
+2026-09-28 14:17:54,060 | INFO | Tool called: search_room | room_id=A203
+2026-09-28 14:17:54,063 | INFO | Tool called: search_room | room_id=XYZ999
+2026-09-28 14:17:54,065 | INFO | Tool called: get_device_status | room_id=A203
+2026-09-28 14:17:54,068 | INFO | Tool called: find_available_room | capacity=40 | building=A | require_projector=True
+2026-09-28 14:17:54,071 | INFO | Tool called: find_available_room | capacity=500 | building=A | require_projector=True

@@ -1,0 +1,32 @@
+[
+  {
+    "device_id": "D001",
+    "room_id": "A203",
+    "device_type": "Projector",
+    "status": "working"
+  },
+  {
+    "device_id": "D002",
+    "room_id": "A203",
+    "device_type": "Computer",
+    "status": "working"
+  },
+  {
+    "device_id": "D003",
+    "room_id": "B105",
+    "device_type": "Projector",
+    "status": "maintenance"
+  },
+  {
+    "device_id": "D004",
+    "room_id": "A305",
+    "device_type": "Computer",
+    "status": "working"
+  },
+  {
+    "device_id": "D005",
+    "room_id": "B201",
+    "device_type": "Projector",
+    "status": "working"
+  }
+]

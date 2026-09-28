@@ -1,0 +1,42 @@
+[
+  {
+    "room_id": "A101",
+    "building": "A",
+    "floor": 1,
+    "capacity": 30,
+    "type": "Classroom",
+    "status": "available"
+  },
+  {
+    "room_id": "A203",
+    "building": "A",
+    "floor": 2,
+    "capacity": 45,
+    "type": "Classroom",
+    "status": "available"
+  },
+  {
+    "room_id": "A305",
+    "building": "A",
+    "floor": 3,
+    "capacity": 60,
+    "type": "Lab",
+    "status": "occupied"
+  },
+  {
+    "room_id": "B105",
+    "building": "B",
+    "floor": 1,
+    "capacity": 40,
+    "type": "Classroom",
+    "status": "available"
+  },
+  {
+    "room_id": "B201",
+    "building": "B",
+    "floor": 2,
+    "capacity": 80,
+    "type": "Hall",
+    "status": "available"
+  }
+]
